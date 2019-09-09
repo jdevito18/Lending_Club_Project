@@ -1,1 +1,2 @@
 # Lending_Club_Project
+The goal of this project is to explore the data of approved loans from 2007 to 2015, sourced from online lender Lending Club (www.lendingclub.com). The project has two parts, the first which aims at employing classification techniques to the problem of predicting whether or not a borrower will repay his or her loan on time, and the second being an experiment with grouping similar borrowers. This is my first independent research project, which I plan to use as a hands on data science learning experience to develop my EDA and machine learning skills.
